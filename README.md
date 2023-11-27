@@ -1,4 +1,4 @@
-# **Zero 2 Hero MachineLearning**
+# **Zero 2 Hero Machine Learning**
 
 This repository contains the information and implementations of the machine learning models:
 1. Supervised Learning
